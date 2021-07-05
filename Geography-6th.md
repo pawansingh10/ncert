@@ -146,3 +146,8 @@
 ```
 
 - ![image](https://user-images.githubusercontent.com/47448422/124509544-ca8b9680-ddef-11eb-8bd7-bf2449fc9d0c.png)
+
+- **Geography** English word originated from two greek words ***Ge*** means Earth and **graphia** means Writting
+
+- ![image](https://user-images.githubusercontent.com/47448422/124509950-7503b980-ddf0-11eb-991c-5bdc51afc305.png)
+

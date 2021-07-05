@@ -110,7 +110,7 @@
   - In order of thier distance from **Sun : Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus & Neptune**
  
   ```javascript
-     M_y V_ery E_fficient M_other J_ust S_erved U_s N_uts
+     My Very Efficient Mother Just Served Us Nuts
   ```
  
   - All the 8 planets moves around the Sun in fixed path, these path are elonated. They are called **Orbit**

@@ -98,25 +98,27 @@
 
 
 - **Sun**
- - The Sun is in the centre of Solar System
- - It is huge & made up of extremely hot gases
- - It provides the pulling force that binds the Solar System
- - Ultimate source of Heat & light
- - ***The Sun is about 150 million km away from the Earth*** 
+  - The Sun is in the centre of Solar System
+  - It is huge & made up of extremely hot gases
+  - It provides the pulling force that binds the Solar System
+  - Ultimate source of Heat & light
+  - ***The Sun is about 150 million km away from the Earth*** 
 
 - **Planet**
- - 8 planets in our solar system
+  - 8 planets in our solar system
  
- - In order of thier distance from **Sun : Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus & Neptune**
+  - In order of thier distance from **Sun : Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus & Neptune**
  
- - **M**y **V**ery **E**fficient **M**other **J**ust **S**erved **U**s **N**uts
+  ```javascript
+     **M**y **V**ery **E**fficient **M**other **J**ust **S**erved **U**s **N**uts
+  ```
  
- - All the 8 planets moves around the Sun in fixed path, these path are elonated. They are called **Orbit**
+  - All the 8 planets moves around the Sun in fixed path, these path are elonated. They are called **Orbit**
 
- > ***Mercury is nearest to the Sun, takes only 88 days for one round***
+  > ***Mercury is nearest to the Sun, takes only 88 days for one round***
  
- > **Venus** is considered as **Earth's twin** because it's size & shape are very similar to the Earth
- - **V-2** -> Earth
+  > **Venus** is considered as **Earth's twin** because it's size & shape are very similar to the Earth
+  - **V-2** -> Earth
 
  - **Pluto**
    - Till Aug 2006, Pluto was also considered a Planet

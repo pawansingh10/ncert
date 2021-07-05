@@ -207,3 +207,10 @@
 
 - ![image](https://user-images.githubusercontent.com/47448422/124512953-4806d500-ddf7-11eb-804b-b0418ddef77d.png)
 
+
+- ![image](https://user-images.githubusercontent.com/47448422/124513130-ba77b500-ddf7-11eb-94e1-1900088782b7.png)
+
+- ![image](https://user-images.githubusercontent.com/47448422/124513149-c794a400-ddf7-11eb-8c82-0e82601e31f5.png)
+
+- ![image](https://user-images.githubusercontent.com/47448422/124513182-d7ac8380-ddf7-11eb-9f33-d44bb1ecab94.png)
+

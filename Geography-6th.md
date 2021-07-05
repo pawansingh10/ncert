@@ -90,5 +90,21 @@
 - **The Solar System (सौर मंडल)**
    - The Sun, eight planets, Satellites & some other celestial bodies known as **asteroids & meteoroids** (क्षुद्रग्रह और उल्कापिंड)
 
-- Asteroid Belt
+- Asteroid Belt which lies in between mars & jupiter
+
+- **Michael (asteroid) Johnson**
+
 - ![image](https://user-images.githubusercontent.com/47448422/124505194-9364b780-dde6-11eb-8d45-24a6b772852d.png)
+
+
+- **Sun**
+ - The Sun is in the centre of Solar System
+ - It is huge & made up of extremely hot gases
+ - It provides the pulling force that binds the Solar System
+ - Ultimate source of Heat & light
+ - ***The Sun is about 150 million km away from the Earth*** 
+
+- **Planet**
+ - 8 planets in our solar system
+ - In order of thier distance from **Sun : Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus & Neptune**
+ - **M**y **V**ery **E**fficient **M**other **J**ust **S**erved **U**s **N**uts

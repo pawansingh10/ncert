@@ -106,5 +106,30 @@
 
 - **Planet**
  - 8 planets in our solar system
+ 
  - In order of thier distance from **Sun : Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus & Neptune**
+ 
  - **M**y **V**ery **E**fficient **M**other **J**ust **S**erved **U**s **N**uts
+ 
+ - All the 8 planets moves around the Sun in fixed path, these path are elonated. They are called **Orbit**
+
+ > ***Mercury is nearest to the Sun, takes only 88 days for one round***
+ 
+ > **Venus** is considered as **Earth's twin** because it's size & shape are very similar to the Earth
+ - **V-2** -> Earth
+
+ - **Pluto**
+   - Till Aug 2006, Pluto was also considered a Planet
+   - However in a meeting of **International Astronmical Union** a decision was taken that Pluto is like other calestial objects called as **dwarf planets**
+
+
+
+- **Earth**
+  - 3rd nearest planet to Sun
+  - 5th Largest planet acc to size
+  - It is slightly flattened at poles that's why it's shape is discribe as **Geoid** means earth like shape
+
+
+```javascript
+    Those who study the celestial bodies & thier movements are called astronomers
+```

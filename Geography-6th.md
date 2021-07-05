@@ -131,7 +131,7 @@
 
 
 ```javascript
-    Those who study the celestial bodies & thier movements are called, astronomers.
+    Those who study the Celestial bodies & thier movements are called Astronomers.
     Aryabhatta was famous astonomer of ancient India
     
     Brahmagupta a scholar and mathematician in AD 628 first time defined zero and its operation and developed a symbol for it which is a dot underneath the numbers

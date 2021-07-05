@@ -176,3 +176,34 @@
   - ![image](https://user-images.githubusercontent.com/47448422/124511348-87332700-ddf3-11eb-9158-ac80f73ee7f0.png)
 
  
+
+- **Asteroids क्षुद्र ग्रह**
+  - Apart from the Stars, Planets & Satellites, there are numerous tiny bodies which also moves around the Sun, these bodies are called ***asteroids***
+  - They found between the **orbit of Mars and Jupiter**
+  - Scientists are of the view that asteroids are parts of a planet which exploded(विस्फोट) many years back
+
+
+- **Meteoroids उल्कापिंड**
+  - The smallest piece of rocks which move around the Sun are called ***meteoroids***
+  - Sometimes these meteoroids come near the earth and tend to drop upon it
+  - During this process due to Friction with the air they get heated up & burn
+  - It causes a flash of light
+  - Sometimes, a meteor without being completely burnt, falls on the earth and creates a Hollow(खोखले)
+
+ - ~~**Whitish Broad Band/White Glowing Path across the Sky on a clear starry night**~~
+   - It is a cluster of millions of stars
+   - This band is the **Milky way Galaxy**
+   - Our Solar System is a part of this galaxy
+
+   - In ancient time, it was imagined to be a river of light flowing in the sky.Thus, it was named **Akash Ganga**
+
+- **Galaxy**
+   - A galaxy is a huge system of billions of stars and clouds of dust & gases
+   - There are millions of such galaxies that make the **Universe**
+   
+   - It is difficult to imagine how big the universe is.
+   - Scientists are still trying to find out more & more about of it.
+   - We are not certain about its size, but we know you and I belong to this universe
+
+- ![image](https://user-images.githubusercontent.com/47448422/124512953-4806d500-ddf7-11eb-804b-b0418ddef77d.png)
+

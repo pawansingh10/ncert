@@ -129,6 +129,12 @@
   - 5th Largest planet acc to size
   - It is slightly flattened at poles that's why it's shape is discribe as **Geoid** means earth like shape
 
+  - Conditions favorable to support life probably found only on the Earth
+  - **Neither too Hot nor too Cool**, having **Water & Air**, which are very essential for survival
+  - From the outer space, the earth appears **Blue** because it's 2/3rd surface is covered by water, therefore called as **Blue Planet**
+  
+  - ![image](https://user-images.githubusercontent.com/47448422/124509950-7503b980-ddf0-11eb-991c-5bdc51afc305.png)
+
 
 ```javascript
     Those who study the Celestial bodies & thier movements are called Astronomers.
@@ -145,9 +151,28 @@
     Wing Commander Rakesh Sharma, AC is a former Indian Air Force pilot who flew aboard Soyuz T-11 on 3 April 1984 as part of the Soviet Interkosmos programme. 
 ```
 
+
 - ![image](https://user-images.githubusercontent.com/47448422/124509544-ca8b9680-ddef-11eb-8bd7-bf2449fc9d0c.png)
 
 - **Geography** English word originated from two greek words ***Ge*** means Earth and **graphia** means Writting
 
-- ![image](https://user-images.githubusercontent.com/47448422/124509950-7503b980-ddf0-11eb-991c-5bdc51afc305.png)
 
+
+- **Moon**
+  - Our Earth has only one satellite i.e, **Moon**
+  - It's diameter is only one-quarter (1/4th) that of the earth
+  - It appears so big because it's nearer to our planet than other celestial bodies
+  - It is about **3,84,400 km** away from us
+  - Moon moves earth in 27 days, exactly same time to complete one spin, that's why only one side of moon is visible to us on the earth
+
+  - Doesn't any favarable conditions for life
+  - No water no Air
+  - It has Mountains, plains & depression on its surface
+  
+  - ![image](https://user-images.githubusercontent.com/47448422/124511260-59e67900-ddf3-11eb-9007-70f0b07ffb0d.png)
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124511305-6ff43980-ddf3-11eb-84c5-5673d8356c39.png)
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124511348-87332700-ddf3-11eb-9158-ac80f73ee7f0.png)
+
+ 

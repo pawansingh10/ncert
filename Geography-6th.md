@@ -132,4 +132,15 @@
 
 ```javascript
     Those who study the celestial bodies & thier movements are called astronomers
+    Aryabhatta was famous astonomer of ancient India
+    
+    Brahmagupta a scholar and mathematician in AD 628 first time defined zero and its operation and developed a symbol for it which is a dot underneath the numbers
+    
+    Aryabhatta a great mathematician and an astronomer used zero in the decimal system
+    
+    On July 20, 1969, Neil Armstrong became the first human to step on the moon
+    
+    Kalpana Chawla was the first India-born woman astronaut to go to space
+    
+    Wing Commander Rakesh Sharma, AC is a former Indian Air Force pilot who flew aboard Soyuz T-11 on 3 April 1984 as part of the Soviet Interkosmos programme. 
 ```

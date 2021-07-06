@@ -243,4 +243,15 @@
   
   - Another imaginary line running on the globe divides it into two equal parts. This line is known as the **equator(भूमध्य रेखा)** 
 
-  - [x] :blush:
+  - [x] 🔵 The Northern Half of the Earth is called **Northern Hemisphere**
+  - [x] 🔵 The Southern Half of the Earth is called **Southern Hemisphere**
+  - [x] 🔵 They are both equal halves
+  
+  - All parallel circle from the equator up to the poles are called **Parallel of Latitudes **
+  - [ ] ![image](https://user-images.githubusercontent.com/47448422/124575181-cc457080-de68-11eb-9744-0950619e856b.png)
+  - Latitudes are measured in degrees
+  - The equator represents the zero degree latitude
+  - the distance from the
+equator to either of the poles is one-fourth
+of a circle round the earth, it will measure
+¼th of 360 degrees, i.e. 90°

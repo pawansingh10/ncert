@@ -518,9 +518,9 @@
   ```
 - | Greek Words|
   |------------|
-  |**Lithos means Stone**|
-  |**Atmos means Vapour**|
-  |**Hudor means Water**|
-  |**Bios means Life**|
+  |**Lithos ->  Stone**|
+  |**Atmos  ->  Vapour**|
+  |**Hudor  ->  Water**|
+  |**Bios   ->  Life**|
 
 

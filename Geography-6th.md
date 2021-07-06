@@ -353,8 +353,41 @@
   
   - It takes 365¼ days (365 days ==1 year ignore 6 hrs for the sake of convenience) to revolve around the Sun 
   
+  - 6 hrs saved every year are added to make 24 hrs == 1 Day over a span of 4 years, Thus every 4th year Feb is of 29 days instead of 28, such a year has 366 days is called as **Leap Year**  
+  
   - ![image](https://user-images.githubusercontent.com/47448422/124601963-0709d180-de86-11eb-9f53-7834f4214ea4.png)
   
-  - 6 hrs saved every year are added to make 24 hrs == 1 Day over a span of 4 years, Thus every 4th year Feb is of 29 days instead of 28, such a year has 366 days is called as **Leap Year**  
+  - In above picture it is clear that the earth is going round the sun in an **Elliptical Orbit** throughout its orbit, the earth is inclined in the same direction.
+  
+  - A year is usually divided into 🟡**Summer**, ⚪**Winter**, 🟢**Spring** and 🔵**Autumn** seasons
+  - Seasons change due to the change in the position of the earth around the Sun
+
+
+- **Summer Solstice ग्रीष्म संक्रांति**
+  - 21st June, the Noerthern Hemisphere is titled towards the Sun.
+  - The rays of Sun fall directly on the Tropic of Cancer
+  - As a result these area receive more heat
+  - The longest day and the shortest night at these places occur on 21st June. At this time in the Southern Hemisphere all these conditions are reversed. It is winter season there. The nights are longer than the days. This position of the earth is called the **Summer Solstice**
+
+
+- **Winter Solstice शीतकालीन अयनांत**
+  - On 22 Dec, the Tropic of Capricorn receives direct rays of the sun as the South pole tilts towars it.
+  - Sun Rays fall vertically at Tropic Of Capricorn longer portion of South Hemisphere gets light. Therefore It's summer in the southern hemisphere with longer day and shorter nights. The reverse happen in the Northern Hemisphere. This position of the earth is called **Winter Solstice**
+
+
+- **Equinox विषुव**
+   - on 21 March and 23 Sept, direct rays of the Sun fall on the equator.
+   
+   - At this position neither of the poles is tilted towards the sun. So the whole earth experience equal days & equal nights. This is called **Equinox**
+   
+   - on 23 Sept, It is Autumn season in the Northern Hemisphere and Spring Season inthe Southern Hemisphere.
+   
+   - The opposite in the case of 23 March, when it is Spring in the Northern Hemisphere and Autumn in the Southern Hemisphere
+   
+   - Days & Nights are changes in Seasons because of the Rotation & Revolution of the earth repectively
+
+
+- ![image](https://user-images.githubusercontent.com/47448422/124614547-f95a4900-de91-11eb-9756-86338636b3f5.png)
+
  
   

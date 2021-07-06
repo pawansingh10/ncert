@@ -346,5 +346,15 @@
   - The earth take about 24 hrs to complete one rotation around its axis. This period of rotation is known as **Earthday**, this is the daily motion of the earth.
 
   - ```javascript
-       the ancient indian astronomer Aryabhatta had stated that Earth is Round and Rotate on ist Axis   
+       the ancient indian astronomer Aryabhatta had stated that Earth is Round and Rotate on its Axis   
     ```
+    
+  - The second motion of the earth around the Sun in its orbit is called **Revolution**
+  
+  - It takes 365¼ days (365 days ==1 year ignore 6 hrs for the sake of convenience) to revolve around the Sun 
+  
+  - ![image](https://user-images.githubusercontent.com/47448422/124601963-0709d180-de86-11eb-9f53-7834f4214ea4.png)
+  
+  - 6 hrs saved every year are added to make 24 hrs == 1 Day over a span of 4 years, Thus every 4th year Feb is of 29 days instead of 28, such a year has 366 days is called as **Leap Year**  
+ 
+  

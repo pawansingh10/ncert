@@ -251,7 +251,21 @@
   - [ ] ![image](https://user-images.githubusercontent.com/47448422/124575181-cc457080-de68-11eb-9744-0950619e856b.png)
   - Latitudes are measured in degrees
   - The equator represents the zero degree latitude
-  - the distance from the
-equator to either of the poles is one-fourth
-of a circle round the earth, it will measure
-¼th of 360 degrees, i.e. 90°
+  - The distance from the equator to either of the poles is one-fourth of a circle round the earth, it will measure **¼**th of 360 degrees, i.e. 90°
+  - All parallels north of the equator are called ‘north latitudes' & similarly all parallels south of equators are called 'south latitudes'
+
+
+- **Important Parallel of Latitude**
+  - Besides the Equator (0°), the North Pole (90° N) & the South Pole (90° S)
+  
+  - There are 4 other parallel of latitudes
+  - 🟢 1. **Tropic of Cancer कर्क रेखा (23½° N in northern Hemisphere)**
+  - 🟢 2. **Tropic of Capricorn मकर रेखा (23½° S in southern Hemisphere)**
+  - 🟢 3. **Arctic Circle आर्कटिक वृत्त (66½° north of the equator)**
+  - 🟢 4. **Antarctic Circle अण्टार्कटिक वृत्त (66½° south of the equator)**
+  
+  - ![image](https://user-images.githubusercontent.com/47448422/124582830-0403e680-de70-11eb-865d-5c4758f787f1.png)
+
+
+- **Heat Zone of the Earth**
+- 

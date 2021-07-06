@@ -243,4 +243,4 @@
   
   - Another imaginary line running on the globe divides it into two equal parts. This line is known as the **equator(भूमध्य रेखा)** 
 
-  [x] :blush:
+  - [x] :blush:

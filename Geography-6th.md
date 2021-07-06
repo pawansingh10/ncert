@@ -246,7 +246,9 @@
   - [x] 🔵 The Northern Half of the Earth is called **Northern Hemisphere**
   - [x] 🔵 The Southern Half of the Earth is called **Southern Hemisphere**
   - [x] 🔵 They are both equal halves
-  
+
+
+### Latitudes
   - All parallel circle from the equator up to the poles are called **Parallel of Latitudes **
   - [ ] ![image](https://user-images.githubusercontent.com/47448422/124575181-cc457080-de68-11eb-9744-0950619e856b.png)
   - Latitudes are measured in degrees
@@ -268,4 +270,32 @@
 
 
 - **Heat Zone of the Earth**
-- 
+🔴 **Torrid Zone उष्ण क्षेत्र**
+🔴 **Temparate Zone समशीतोष्ण क्षेत्र**
+🔴 **Frigid Zone ठंडा क्षेत्र**
+- ![image](https://user-images.githubusercontent.com/47448422/124583906-3b26c780-de71-11eb-9d76-fe7683b54de2.png)
+
+### Longitudes
+- To fix the position of any place, it is necessary to know something more than the Latitudes of the place
+- In order to locate them precisely, we must find out how far east or west these places are from a given line of reference running from the North Pole to the South Pole
+- These lines of references are called the meridians of longitude,
+
+- ![image](https://user-images.githubusercontent.com/47448422/124584940-6c53c780-de72-11eb-94ee-0c5c47b51fd0.png)
+
+- **Prime Meridian**
+   - Unlike parallels of latitude, all meridians are of equal length. Thus, it was difficult to number the meridians.
+   - Hence, all countries decided that the count should begin from the meridian which passed through Greenwich, where the British Royal Observatory is located. This meridian is called the **Prime Meridian.**
+   - Its value is 0° longitude and from it we count 180° eastward as well as 180° westward
+
+   - The Prime Meridian and 180° meridian divide the earth into two equal halves, the **Eastern Hemisphere(E)** and the **Western Hemisphere (W)**.
+
+> Earth 360° in 24 hrs, 15° in 1hr , 1° in 4 min
+
+- **Why do we have Standard Time?**
+  - The Local time of places which are on different meridians are bound to differ
+  - For Example:- It will be difficult to prepare a time-table for Trains/Aeroplanes which cross several longitudes
+  - The Local time at the specific meridian is taken as the Standard Time for the whole Country, known as ***Indian Standard Time (IST)*** 
+  - ![image](https://user-images.githubusercontent.com/47448422/124587517-5267b400-de75-11eb-8286-76241cf3410d.png)
+
+- ![image](https://user-images.githubusercontent.com/47448422/124588201-2862c180-de76-11eb-8d47-58356421337b.png)
+

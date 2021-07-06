@@ -433,3 +433,25 @@
    - 🏀**Scale** is the ratio between Actual Distance on the ground and Distance shown in the Map
     1. Small Scale Map
     2. Large Scale Map 
+
+- ▶️**Direction**
+    - ![image](https://user-images.githubusercontent.com/47448422/124641018-dd63a100-deab-11eb-9245-28f64cb365e4.png)
+    
+    - Maps contain an Arrow mark with the letter like N , If we know North then we can find others
+    
+    - There are Major four direction:-
+     1. North
+     2. South
+     3. East
+     4. West They are called **Cardinal Points**
+     5. Other 4 intermediate directions are :
+     5.1 North East
+     5.2 South East
+     5.3 North west
+     5.4 South West
+    
+    - ![image](https://user-images.githubusercontent.com/47448422/124641097-f4a28e80-deab-11eb-9cbd-9c1fb3694c97.png)
+    
+    - **Compass** is an instrument used to find main direction. Its magnetic needle always points towards North-South direction
+    - ![image](https://user-images.githubusercontent.com/47448422/124641174-05530480-deac-11eb-8c1f-c99d0e5f94df.png)
+

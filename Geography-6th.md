@@ -487,3 +487,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+### Chapter-5    **Major Domains of the Earth**
+***
+- Earth is only planet which has Life, because of life sustaining elements of Land, Water & Air
+- The Surface of the earth is a complex zone in which three main components of enviroment meet, oberlap & Interact
+
+- 🌏**Lithosphere स्थलमंडल**
+  - The Solid portion of the earth on which we live is called ***Lithosphere*** 
+
+- 🌏**Atmosphere वायुमंडल**
+  - The gaseous layer that surround the earth, is the ***Atmosphere***
+  - Where Oxygen, Nitrogen, Carbondioxide & other gases are found
+ 
+- 🌏**Hydrosphere जल-मंडल**
+  - Waters covers a big area of the earth's surface and this area is called ***Hydrosphere*** 
+  - The Hydrosphere comprises water in all its form i.e, **Ice, Water & Water-Vapour**
+  
+- ```javascript
+    Biosphere is the narrow zone where we find Land, Water and Air together which contain all forms of life
+  ```
+- | Greek Words|
+  |------------|
+  |**Lithos means Stone**|
+  |**Atmos means Vapour**|
+  |**Hudor means Water**|
+  |**Bios means Life**|
+
+

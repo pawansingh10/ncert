@@ -221,6 +221,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### Chapter-2    **Latitudes & Longitudes**
 ***
 - **Globe**
@@ -270,9 +282,11 @@
 
 
 - **Heat Zone of the Earth**
-🔴 **Torrid Zone उष्ण क्षेत्र**
-🔴 **Temparate Zone समशीतोष्ण क्षेत्र**
-🔴 **Frigid Zone ठंडा क्षेत्र**
+
+- 🔴 **Torrid Zone उष्ण क्षेत्र**
+- 🔴 **Temparate Zone समशीतोष्ण क्षेत्र**
+- 🔴 **Frigid Zone ठंडा क्षेत्र**
+
 - ![image](https://user-images.githubusercontent.com/47448422/124583906-3b26c780-de71-11eb-9d76-fe7683b54de2.png)
 
 ### Longitudes
@@ -299,3 +313,38 @@
 
 - ![image](https://user-images.githubusercontent.com/47448422/124588201-2862c180-de76-11eb-8d47-58356421337b.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Chapter-3    **Motion of the Earth**
+***
+- Earth has two types of motion 
+- **Rotation Vs Revolution**
+  - 🟥 **Rotation is the movement of the earth on its axis**
+  - 🟩 **The moment of the earth around the Sun in a fixed path or orbit is called Revolution**
+  
+- **Day-Night concept**
+  - The axis of the earth which is an imaginary line, makes an angle of 66½° with its **orbital Plane**
+  > ***The plane formed by the orbit is known as the Orbit Plane***
+  
+  - Earth receives light from the Sun. Due to the spherical shape one half portion experience Light at a time while another half portion experience NIght
+  
+  - The circle that divides the day from night on the globe is called the **Circle of illumination**
+  
+  - ![image](https://user-images.githubusercontent.com/47448422/124599713-98c40f80-de83-11eb-8c6d-4d1d5fda72f4.png)
+ 
+  - The earth take about 24 hrs to complete one rotation around its axis. This period of rotation is known as **Earthday**, this is the daily motion of the earth.
+
+  - ```javascript
+       the ancient indian astronomer Aryabhatta had stated that Earth is Round and Rotate on ist Axis   
+    ```

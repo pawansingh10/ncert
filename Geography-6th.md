@@ -390,4 +390,46 @@
 - ![image](https://user-images.githubusercontent.com/47448422/124614547-f95a4900-de91-11eb-9756-86338636b3f5.png)
 
  
+ 
+ 
+
+
+
+
+
+### Chapter-4    **Maps**
+***
+
+- A globe can be useful when we want to study the earth as whole, But when we want to study only a part of the earth as about Country, State, District, town, Village we use **Map**
+
+- ***Map is a representation or drawing of earth's surface***
+
+- Maps are very useful for various purposes
+
+- Map provide more information tha a Globe 
+
+- One Map shows a small area & few facts while another Map contains as many facts as a book
+
+> **When many Maps are put together we get an ATLAS** 
   
+
+- 🔴**Physical Map**
+   - Map showing natural features of the earth such as Mountains, Plateaus, plains , rivers, oceans etc are called **Physical or Relief Map**
+
+- 🔴**Political Map**
+   - Map showing  cities, town, villages and different countries and states of the world with thier boundaries are called **Political Map**
+
+- 🔴**Thematic Map**
+   - Some Maps focus on specific information such as Road Map, Rainfall Map, Map showing distribution of forests, industries etc are known as **Thematic Map**
+   
+ 
+- **There are three components of the Map**
+   1. Distance
+   2. Direction
+   3. Symbol
+   
+- ▶️**Distance**
+   - Maps are drawing which reduce the entire world to fit on a sheet of paper
+   - 🏀**Scale** is the ratio between Actual Distance on the ground and Distance shown in the Map
+    1. Small Scale Map
+    2. Large Scale Map 

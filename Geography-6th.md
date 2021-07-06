@@ -24,6 +24,7 @@
 
 
 ## Chapter-8    **Climate, Vegetation & Wildlife**
+***
 
 
 
@@ -37,7 +38,8 @@
 
 
 
-## Chapter-1    **The Earth in the Solar System**
+
+### Chapter-1    **The Earth in the Solar System**
 ***
 
 - **SKY**
@@ -216,3 +218,27 @@
 
 - ![image](https://user-images.githubusercontent.com/47448422/124513182-d7ac8380-ddf7-11eb-9f33-d44bb1ecab94.png)
 
+
+
+
+### Chapter-2    **Latitudes & Longitudes**
+***
+- **Globe**
+  - Our planet is **not sphere**. It is slightly **flattened at the North Pole & South Pole** also **Bulge(उभाड़) in the Middle**
+  - Geoid Shape
+  - **Globe** is a true model of the earth
+  - Globe is not fixed, It can be rotated the same way as top spin/potter's wheel is rotated
+  - On the globe, **Countries, Continents and Oceans** are shown in thier correct size
+  
+- **Difficult to describe the location of a point on a sphere like Earth**
+  - Need certain points of references & Lines to find out the Location of place
+  
+  - A Niddle is fixed through the globe in a tilted manner which is called its **axis**
+  
+  - Two points on the globe through which niddle passes are Two Poles : **North Pole & South Pole**
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124561288-58e93200-de5b-11eb-92e9-e3e624dda444.png)
+  
+  - The real earth has no such needle. It moves around its axis, which is an imaginary line
+  
+  - Another imaginary line running on the globe divides it into two equal parts. This line is known as the **equator(भूमध्य रेखा)** 

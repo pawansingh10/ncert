@@ -445,13 +445,45 @@
      3. East
      4. West They are called **Cardinal Points**
      5. Other 4 intermediate directions are :
-     5.1 North East
-     5.2 South East
-     5.3 North west
-     5.4 South West
+     6. North East
+     7. South East
+     8. North west
+     9. South West
     
     - ![image](https://user-images.githubusercontent.com/47448422/124641097-f4a28e80-deab-11eb-9cbd-9c1fb3694c97.png)
     
     - **Compass** is an instrument used to find main direction. Its magnetic needle always points towards North-South direction
-    - ![image](https://user-images.githubusercontent.com/47448422/124641174-05530480-deac-11eb-8c1f-c99d0e5f94df.png)
+    - ![image](https:// user-images.githubusercontent.com/47448422/124641174-05530480-deac-11eb-8c1f-c99d0e5f94df.png)
+
+ 
+ - ▶️**Symbol**
+    - 3rd important component of Map, It's not possible to draw a map of actual shape/size of different features such as buildings, roads, bridges, trees, railway lines, etc
+    - So these are shown by using Symbols such as certain Letters, Shades, colors, pictures & lines 
+    - These Symbols give a lot of information in a limited space
+    
+    - With the use of these symbol, Map can be drawn easily simple to read
+    - Map have a Universal Language which can be understood by all
+    - There is an international agreement regarding the use of Symbols. These are called **Conventional Symbols**
+    - ![image](https://user-images.githubusercontent.com/47448422/124646538-6978c700-deb2-11eb-8f34-2770076a5ea3.png)
+
+
+- Various colours are used for the same purpose. For Example:-
+   - Blue for 💙 Water Bodies 
+   - Brown for 🤎 Mountain
+   - Yellow for 💛 Plateau
+   - Green for 💚 Plain
+
+- **Sketch**
+   - A Sketch is a drawing mainly based on memory and spot observation and not to scale
+   - A rough drawing is drawn without scale and called is called a Sketch Map
+
+- **Plan**
+   - A plan is a drawing of small area on a large scale.
+   - A large scale map gives a lot of information but there are certain things which we may want to know like Length, Bridth of a room which cannot be shown in Map
+   - At that time, we can refer drawings drawn to scale called a **plan**
+
+
+- ![image](https://user-images.githubusercontent.com/47448422/124649874-aba40780-deb6-11eb-8a45-75e472a5d0b0.png)
+
+
 

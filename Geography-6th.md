@@ -242,3 +242,5 @@
   - The real earth has no such needle. It moves around its axis, which is an imaginary line
   
   - Another imaginary line running on the globe divides it into two equal parts. This line is known as the **equator(भूमध्य रेखा)** 
+
+  [x] :blush:

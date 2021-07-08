@@ -523,7 +523,7 @@
   |**Hudor  ->  Water**|
   |**Bios   ->  Life**|
 
-- **Lithosphere**
+- **🟩Lithosphere**
   - The solid portion of the earth is called **Lithosphere**
   - Comprises of Rocks of the Earth's Crust & the thin layer of Soil that contains nutrients elements which sustain organism
   - There are 2 major division of earth's surface
@@ -613,4 +613,124 @@
    - many countries have research station in Antarctica
    - India also has research station there named **Maitri and Dakshin Gangotri** 
 
+
+- **🟩Hydrosphere**
+   - The earth is called "Blue Planet"
+   - More than 71% of the earth is covered with water & 29% is with land
+   - Hydrosphere consists of water in all its form as ***Running water in ocean, rivers, lakes, ice in glaciers, underground water and water vapour in atmosphere***
+   - More than 97% of the Earth's water is found in the Oceans and is too salty for Human use
+   - A large portion of the rest water is in the form of ice-sheets and glaciers & under the ground and very small percentage is available as fresh water for Human use
+   - Despite being a 'blue planet' we face a shortage of water!!
+
+   - ![image](https://user-images.githubusercontent.com/47448422/124938696-22abde00-e026-11eb-897a-d3bf0abd85fd.png)
+
+
+- **🟥Oceans**
+   - Oceans are the major part of Hydrosphere
+   - They all are interconnected
+   - The Ocean waters are always moving
+   - The 3 movements of ocean waters are :- 
+    1. **Waves**
+    2. **Tides**
+    3. **Currents**
+
+   - 5 Oceans are:-
+    1. **🌊Pacific Ocean**
+    2. **🌊Atlantic Ocean**
+    3. **🌊Indian Ocean**
+    4. **🌊Southern Ocean**
+    5. **🌊Arctic Ocean**
+
+- **🌊1.Pacific Ocean**
+  - Pacific ocean is the **Largest ocean**
+  - Spread over **1/3rd** of the earth
+  - **Mariana Trench**, the deepest part of earth, lies in  the Pacific Ocean
+  - Pacific Ocean is almost **Circular** in shape
+  - Asia, Australia, North & South-America surround it
+
+- **🌊2.Atlantic Ocean**
+  - 2nd Largest ocean
+  - **S** shaped
+  - It is flanked by the North & South America (Western Side) and Europe & Africa (Eastern Side)
+  - The Coastline of Atlantic ocean is highly indented
+  - It is the busiest Ocean from the view point of commerce
+
+
+- **🌊3.Indian Ocean**
+  - The Indian Ocean is the only ocean named after a country, i.e, India
+  - The shape of Indian Ocean is almost **Triangular**
+  - North - Asia, West - Africa and East- Australia
+
+- **🌊4.Southern Ocean**
+  - Encircle the continent of Antarctica and extends northward to 60-degree south latitude
+
+- **🌊5.Arctic Ocean**
+  - The Arctic Ocean is located within the Arctic Circle and Surrounds the North Pole
+  - It is connected with the Pacific Ocean by a narrow stretch of shallow water known as **Berring Strait**
+  - It bound by Northern Coasts of North America And Eurasia
+
+
+
+- 🟩**Atmosphere**
+  - The earth is surrounded by a layer of gas called **Atmosphere**
+  - This thin blanket of air is an integral and important aspect of the planet.
+  - It provides us with the air we breathe and protect us from harmful effects of Sun's Rays
+  - The atmosphere extends upto a height of about 1600 km
+  - The atmosphere is divided into 5 layers based on composition, temperature and other properties
+  - The layer starting from earth's surface are called
+   1. **troposphere**
+   2. **Stratosphere**
+   3. **mesosphere**
+   4. **thermosphere**
+   5. **exosphere** 
+  - ![image](https://user-images.githubusercontent.com/47448422/124938571-08720000-e026-11eb-970d-19e7e0fb3e1d.png)
+
+- **NO2, O2 , CO2 and Others gases**
+  - The atmosphere is composed mainly of **Nitrogen & Oxygen**, which makes up about 99% clean, dry air
+  - Nitrogen-78%, Oxygen-21% Other gases like Carbondioxide, Argon, & other - 1% by volume
+  - Oxygen is the breath of life while Nitrogen hepls in growth of living organisms
+  - Carbon Dioxide, though it present in minute amount, is important as it absorbs Heat radiated by the earth & also essential for growth of plants
+
+- **Density of Air**
+  - The density of Air is varies with height in the atmosphere.
+  - It is maximum at the sea level and decreases rapidly as we go up
+  - Climbers Experiences problem in breathing due to decrease in the density of air, Thus they carry Oxygen Cylinders to breath at high altitudes
+
+- **Temperature**
+  - The Temperature also decrease as we go upwards 
+
+- **Pressure**
+  - The atmosphere exerts pressure on the earth. This varies from place to place
+  - Some areas experiences high pressure & some areas low pressure
+  - Air moves from high pressure to low pressure. Moving air is known as **Wind**
+
+
+
+- **🟩Biosphere**
+  - The Biosphere is a narrow zone of contact between the land, water and air
+  - In this Zone that Life, that is unique to this planet exists
+  - There are several species of organisms that vary in size from microbes and bacteria to huge mammals.
+  - All the living organisms including Humans are linked to each other and to the biosphere for survival
+  - Organism broadly divided into 
+   1. **Plant Kingdom**
+   2. **Animal Kingdom**
+   
+  - ![image](https://user-images.githubusercontent.com/47448422/124943701-5983f300-e02a-11eb-8fd6-10bcca36d7cc.png)
+
+
+
+- [x] Cutting of Forests for fulfilling our needs of wood
+- [x] Clearing Land for agriculture may lead to fast removal of soil from slopes
+- [x] Earth Surface may be change due to natural calamities like **EarthQuakes**
+- [x] There could be submergence of land, as happened in case of **Tsunami** 
+- [x] Parts of Andman & Nicobar islands were submerged under water
+- [x] Discharge of waste material into lakes & rivers makes Water unsuitable for human use
+- [x] Emission from Industries, Thermal Power Plants & Vehicles pollute the air.
+- [X] But Increase in the amount of CO2 leads to increase in global temperatures. This is termed as **Global Warming** 
+
+> ***Thus there is a need to limit the use of resources of the earth to maintain the balance of nature between the domain Lithosphere, Atmosphere and Hydrosphere***        
+  
+
+- ![image](https://user-images.githubusercontent.com/47448422/124943803-6dc7f000-e02a-11eb-906d-35295e7123bc.png)
+- ![image](https://user-images.githubusercontent.com/47448422/124943884-7f10fc80-e02a-11eb-8fd0-f49ee48c2245.png)
 

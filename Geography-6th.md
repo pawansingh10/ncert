@@ -523,4 +523,18 @@
   |**Hudor  ->  Water**|
   |**Bios   ->  Life**|
 
+- **Lithosphere**
+  - The solid portion of the earth is called **Lithosphere**
+  - Comprises of Rocks of the Earth's Crust & the thin layer of Soil that contains nutrients elements which sustain organism
+  - There are 2 major division of earth's surface
+   1. The Large landmasses are known as the **Continents**
+   2. The huge waterbodies are called **Ocean Besins**
+
+  > ***All the oceans of the world are connected with one another***
+
+  - The level of SeaWater remains the same everywhere
+  - Elevation of Land is measured from the level of Sea which is taken as Zero(0)
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124920813-5d594a80-e015-11eb-94ab-23e312846c6e.png)
+
 

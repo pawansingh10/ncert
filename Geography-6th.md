@@ -745,12 +745,71 @@
 - The Surface of the earth is not same everywhere
 - The earth has an infinite variety of landforms
 - Some of the part of Lithosphere is **Rugged** some is **Flat**
+- These landforms are the result of two process : Internal Process  & External Process 
+- Our ground is slowly moving.
+- Within the earth, a continuous movement is taking place.
+
+- **1. Internal Process** leads to upliftment & Sinking of the earth's surface at several places.
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124964353-8cd07d00-e03e-11eb-9664-30e297744c9f.png)
 
 
+- **2. External Process** is a continuous wearing down and rebuilding of the earth surface
+  - The wearing away of the earth's surface is called **Erosion**
+  - The surface is being lowered by the process of erosion and rebuilt by the process of **Deposition**
+  - These two process are running water, ice and wind
+
+- We can group different Landforms depending on elevation and slope as **Mountain, Plateaus & Plains**
+
+- **🟡Mountain**
+  - A mountain ia any natural elevation of the earth surface
+  - The mountain may have a **small summit** and **broad base**
+  - It is considerely higher than surrounding area
+  - Some moutains are even higher than Clouds
+  - As we go higher the climate becomes Colder
+  - In Some mountain, there are permanently frozen river of ice. They are called **Glaciers**
+  - There are some mountain we cannot see as they are under sea.
+  - ![image](https://user-images.githubusercontent.com/47448422/124968663-6c56f180-e043-11eb-8af2-62481a255494.png)
+
+  - Because of harsh climate, less people live in the Mountain areas, since the slopes are steep(खड़ी), less land available for farming.
+
+  - Mountain may be arrange in a line is known as **Range**
+  - **The Himalayas(Asia), the Alps(Europe) & the Andes(North-America)**
+  
+- **There are 3 types of Mountains**
+  - **1.Fold Mountains**
+  - **2.Block Mountains**
+  - **3.Volcanic Mountains** 
+     
+- **1.Fold Mountains**
+  - The Himalayas & the Alps are young fold mountains with high conical peaks
+  - The Aravali range in India is one of the oldest fold mountain system in the world
+  - ![image](https://user-images.githubusercontent.com/47448422/124970223-47fc1480-e045-11eb-9ae3-6aa9114062ec.png)
 
 
+- **2.Block Mountains**
+  - Block Mountains are created when large areas are broken and displaced vertically
+  - The uplifted blocks are termed as **horsts** and the lowered blocks are called **graben**
+  - The Rhine valley and the Vosges mountain in Europe are examples of such mountain systems
+  - ![image](https://user-images.githubusercontent.com/47448422/124970159-3286ea80-e045-11eb-949a-37314c110885.png)
 
 
+- **3.Volcanic Mountains**
+  - Volcanic mountains are formed due to volcanic activity.
+  - Mt.Kilimanjaro in Africa and Mt.Fujiyama in Japan are examples of such mountains.
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124970108-21d67480-e045-11eb-911f-100cc5c71869.png)
+
+   
+- Mountains are very useful, The mountains are storehouse of water.
+-  Many rivers have their source in the glaciers in the mountains
+- Water from the mountains is also used for irrigation and generation of hydro-electricity. 
+- The river valleys and terraces are ideal for cultivation of crops. 
+- Mountains have a rich variety of flora and fauna.
+
+- The forests provide fuel, fodder, shelter and other products like gum, raisins, etc.
+- Mountains provide an idyllic site for tourists. They visit the mountains for their scenic beauty. 
+- Several sports like paragliding, hang gliding, river rafting and skiing are popular in the mountains
 
 
 

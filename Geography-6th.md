@@ -533,6 +533,7 @@
   > ***All the oceans of the world are connected with one another***
 
   - The level of SeaWater remains the same everywhere
+ 
   - Elevation of Land is measured from the level of Sea which is taken as Zero(0)
 
   - ![image](https://user-images.githubusercontent.com/47448422/124920813-5d594a80-e015-11eb-94ab-23e312846c6e.png)
@@ -544,3 +545,64 @@
 > **The highest mountain peak Mt. Everest is 8,848 metres above the sea level.**
 
 > **The greatest depth of 11,022 metres is recorded at Mariana Trench in the Pacific Ocean** 
+
+- **🟥 Continents**
+   - There are 7 Continents and are seperated by large water bodies
+    1. **🌏Asia**
+    2. **🌏Europe**
+    3. **🌏Africa**
+    4. **🌏North-America**
+    5. **🌏South-America**
+    6. **🌏Australia**
+    7. **🌏Antarctica** 
+
+- **🌏Asia**
+   - Asia is largest continent, covers 1/3 rd of the total area of the earth
+   - This continent lies in Eastern Hemisphere
+   - The Tropic of Cancer is passes through this continent
+   - Asia is seperated from Europe by Ural Mountains on the west
+   - The combined landmass of Europe and Asia is called **Eurasia (Europe + Asia)**
+
+- **🌏Europe**
+   - Europe is much smaller than Asia
+   - This continent lies to west of Asia
+   - The Arctic Circle passes through it
+   - It bound by water bodies on three sides
+
+- **🌏Africa**
+   - Africa is the 2nd largest continent after Asia
+   - The Equator or 0-degree latitude runs almost through the middle of it
+   - A large part of Africa lies in Northern Hemisphere
+   - This is the only continent by which Tropic of Cancer, Equator & Tropic of Capricorn pass
+   
+   > **Sahara Desert, World largest Hot Desert, located in Africa**
+   
+   - This continent is bound on all sides by oceans & Seas
+   
+   > **The world Largest River Nile flows through Africa** 
+
+- **🌏North-America**
+   - North-America 3rd largest continent
+   - It is linked to South-America by a very narrow strip of land called **Ishtmus of Panama**
+   - Three Ocean sorround this continent (Atlantic Ocean, Arctic Ocean & Pacific Ocean)
+   - This continent completely lies in Northern & Western Hemisphere
+   
+   - **Ishtmus & Strait**
+    - ![image](https://user-images.githubusercontent.com/47448422/124926196-dad38980-e01a-11eb-8501-fff4b6da7fa7.png)
+  
+
+- **🌏South-America**
+   - South-America lies mostly in the Southern Hemisphere
+   - Surrounded by two oceans Atlantic(East) & Pacific(West) 
+   
+   > **The Andes, world's longest mountain range, runs through its length from North to South**
+   
+   > **Amazon is the world largest river, which is in South-America** 
+   
+- **🌏Australia**
+   - Australia is the smallest continent 
+   - That lies entirely in the Southern Hemisphere
+   - It is surrounded on all sides by Oceans & Seas
+   - It is called an **Island Continent**
+
+- **🌏Antarctica**

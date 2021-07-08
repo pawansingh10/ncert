@@ -812,6 +812,54 @@
 - Several sports like paragliding, hang gliding, river rafting and skiing are popular in the mountains
 
 
+- **🟡Plateaus**
+   - A plateau is an elevated flat land.
+   - It is a flat-topped table land standing above the surrounding area
+   - A plateau may have one or more sides with steep slopes.
+   - Plateaus, like mountains may be young or old
+   
+   - ![image](https://user-images.githubusercontent.com/47448422/124970530-a88b5180-e045-11eb-821c-219eb703007e.png)
+
+   > ***The Deccan plateau in India is one of the oldest plateaus***
+  
+   > ***The Tibet plateau (Figure 5.1, p.31) is the highest plateau in the world with a height of 4,000 to 6,000 metres above the mean sea level***
+
+- Plateaus are very useful because they are rich in mineral deposits. As a result, many of the mining areas in the world are located in the plateau areas.
+
+- The African plateau is famous for gold and diamond mining
+- In India huge reserves of iron, coal and manganese are found in the Chhotanagpur plateau
+- In the plateau areas, there may be several waterfalls as the river falls from a great height
+- The lava plateaus are rich in black soil that are fertile and good for cultivation.
+- Many plateaus have scenic spots and are of great attraction to tourists
+
+- **🟡Plains**
+   - Plains are large stretches of flat land
+   - They are, generally, not more than 200 metres above mean sea level.
+   - Some plains are extremely level. 
+   - Most of the plains are formed by rivers and their tributaries. The rivers flow down the slopes of mountains and erode them
+   - Generally, plains are very fertile. Construction of transport network is easy. Thus, these plains are very thickly-populated regions of the world.
+   - Some of the largest plains made by the rivers are found in Asia and North America.
+   - For example, in Asia, these plains are formed by the Ganga and the Brahmaputra in India and the Yangtze in China.
+
+- Plains are the most useful areas for human habitation. There is great concentration of people as more flat land is available for building houses, as well as for cultivation. Because of fertile soils, the land is highly productive for cultivation.
+- In India too, the Indo-Gangetic plains are the most densely populated regions of the country
+- ![image](https://user-images.githubusercontent.com/47448422/124971885-5e0ad480-e047-11eb-9305-1cf5f30155e8.png)
+
+
+
+- **🟥Landforms & The People**
+  - Humans have been living on different kinds of landforms in different ways.
+  - Life is difficult in mountainous areas.
+  - Plains provide much better conditions. It is easy to grow crops, build a house or a road in a plain than a mountain
+
+
+  - ![image](https://user-images.githubusercontent.com/47448422/124972128-9e6a5280-e047-11eb-8b6f-fc77c859f433.png)
+
+  - It is our duty to leave the earth a better place for future generations as well.
+
+
+
+- ![image](https://user-images.githubusercontent.com/47448422/124972678-4849df00-e048-11eb-891a-1cc0c8e209af.png)
 
 
 

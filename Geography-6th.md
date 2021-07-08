@@ -2,28 +2,28 @@
 # NCERT Geography Class-6th
 
 
-## Chapter-1    **The Earth in the Solar System**
+#### Chapter-1    **The Earth in the Solar System**
 
 
-## Chapter-2    **Latitudes & Longitudes**
+#### Chapter-2    **Latitudes & Longitudes**
 
 
-## Chapter-3    **Motion of the Earth**
+#### Chapter-3    **Motion of the Earth**
 
 
-## Chapter-4    **Maps**
+#### Chapter-4    **Maps**
 
 
-## Chapter-5    **Major Domains of the Earth**
+#### Chapter-5    **Major Domains of the Earth**
 
 
-## Chapter-6    **Major Landforms of the India**
+#### Chapter-6    **Major Landforms of the India**
 
 
-## Chapter-7    **Our Country : India**
+#### Chapter-7    **Our Country : India**
 
 
-## Chapter-8    **Climate, Vegetation & Wildlife**
+#### Chapter-8    **Climate, Vegetation & Wildlife**
 ***
 
 
@@ -39,7 +39,7 @@
 
 
 
-### Chapter-1    **The Earth in the Solar System**
+## Chapter-1    **The Earth in the Solar System**
 ***
 
 - **SKY**
@@ -233,7 +233,7 @@
 
 
 
-### Chapter-2    **Latitudes & Longitudes**
+## Chapter-2    **Latitudes & Longitudes**
 ***
 - **Globe**
   - Our planet is **not sphere**. It is slightly **flattened at the North Pole & South Pole** also **Bulge(उभाड़) in the Middle**
@@ -326,7 +326,7 @@
 
 
 
-### Chapter-3    **Motion of the Earth**
+## Chapter-3    **Motion of the Earth**
 ***
 - Earth has two types of motion 
 - **Rotation Vs Revolution**
@@ -397,7 +397,7 @@
 
 
 
-### Chapter-4    **Maps**
+## Chapter-4    **Maps**
 ***
 
 - A globe can be useful when we want to study the earth as whole, But when we want to study only a part of the earth as about Country, State, District, town, Village we use **Map**
@@ -497,7 +497,7 @@
 
 
 
-### Chapter-5    **Major Domains of the Earth**
+## Chapter-5    **Major Domains of the Earth**
 ***
 - Earth is only planet which has Life, because of life sustaining elements of Land, Water & Air
 - The Surface of the earth is a complex zone in which three main components of enviroment meet, oberlap & Interact
@@ -739,7 +739,7 @@
 
 
 
-### Chapter-6    **Major Landforms of the India**
+## Chapter-6    **Major Landforms of the India**
 ***
 
 - The Surface of the earth is not same everywhere
@@ -855,6 +855,12 @@
 
   - ![image](https://user-images.githubusercontent.com/47448422/124972128-9e6a5280-e047-11eb-8b6f-fc77c859f433.png)
 
+
+
+
+
+## Chapter-7    **Our Country : India**
+***
   - It is our duty to leave the earth a better place for future generations as well.
 
 

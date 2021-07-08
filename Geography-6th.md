@@ -537,4 +537,10 @@
 
   - ![image](https://user-images.githubusercontent.com/47448422/124920813-5d594a80-e015-11eb-94ab-23e312846c6e.png)
 
+> **Edmund Hillary (New Zealand) and Tenzing Norgay Sherpa (India) were the first men to climb the highest mountain peak Mt. Everest on the planet earth on 29th May, 1953.**
 
+> **The first Indian woman to climb the highest peak on 23rd May, 1984 was Bachendri Pal**
+
+> **The highest mountain peak Mt. Everest is 8,848 metres above the sea level.**
+
+> **The greatest depth of 11,022 metres is recorded at Mariana Trench in the Pacific Ocean** 

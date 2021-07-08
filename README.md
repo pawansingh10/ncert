@@ -1,4 +1,4 @@
 # ncert
 NCERT
 
-- [NCERT Books](https://ncert.nic.in/textbook.php)
+- [All NCERT Books](https://ncert.nic.in/textbook.php)

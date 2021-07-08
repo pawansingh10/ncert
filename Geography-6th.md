@@ -734,3 +734,26 @@
 - ![image](https://user-images.githubusercontent.com/47448422/124943803-6dc7f000-e02a-11eb-906d-35295e7123bc.png)
 - ![image](https://user-images.githubusercontent.com/47448422/124943884-7f10fc80-e02a-11eb-8fd0-f49ee48c2245.png)
 
+
+
+
+
+
+### Chapter-6    **Major Landforms of the India**
+***
+
+- The Surface of the earth is not same everywhere
+- The earth has an infinite variety of landforms
+- Some of the part of Lithosphere is **Rugged** some is **Flat**
+
+
+
+
+
+
+
+
+
+
+
+

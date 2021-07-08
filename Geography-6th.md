@@ -606,3 +606,11 @@
    - It is called an **Island Continent**
 
 - **🌏Antarctica**
+   - Antarctica, completely in the Southern Hemisphere is a huge continent
+   - The South Pole is lies almost centre of this continent
+   - As it located in South Pole region it is permanently covered with thick ice sheets
+   - There is no permanent Human Settlements
+   - many countries have research station in Antarctica
+   - India also has research station there named **Maitri and Dakshin Gangotri** 
+
+

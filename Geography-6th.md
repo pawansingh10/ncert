@@ -894,20 +894,97 @@ ional
 
 - **🔴India's Neighbours**
   - There are seven that share land boundaries with India
-   1.Nepal
-   2.Bhutan
-   3.Pakistan
-   4.China
-   5.Bangladesh
-   6.Sri Lanka
-   7.Myanmar
+    1.Nepal
+    2.Bhutan
+    3.Pakistan
+    4.China
+    5.Bangladesh
+    6.Sri Lanka
+    7.Myanmar
 
   - ![India&Neighbours](https://user-images.githubusercontent.com/47448422/125048687-cdbba680-e0bd-11eb-815a-7be65a211105.png)
 
 
+- ![image](https://user-images.githubusercontent.com/47448422/125048927-0a879d80-e0be-11eb-9acf-99e845e6861f.png)
+
+> **Telangana become the 29th state of India in June 2014**
+
+> our island neighbours Sri Lanka and Maldives. Sri Lanka is separated from India by the Palk Strait.
+- [Maldives](https://visitmaldives.com/en/map)
 
 
+- **🔴Political & Administrative Divisions**
+  - India is a vast country
+  - For administrative purposes, the country is divided into 29 States and 9 Union Territories
+  > Delhi is the national capital.
+  - The states have been formed mainly on the basis of languages 
+
+- **🔴Physical Divisions**
+  - India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. 
+  - Him+alaya mean 'the abode of snow'
+  - The Himalayan mountains are divided into three main parallel ranges:
+
+- 1. The northern most is the **Great Himalaya or Himadri**.
+  - The world’s highest peaks are located in this range
+
+- 2. **Middle Himalaya or Himachal** lies to the south of Himadri
+  - Many popular hill stations are situated here.
+  - Barog, Barot, Tattapani, Triund, Rohtang, Reckong Peo, Palampur, Narkanda, Mashobra, Manali, Kullu, Kufri, Khajjiar, Kasauli, Kalpa, Dharamshala, Dalhousie, Chitkul, Chamba, and Chail.
 
 
+  - **Manali**
+   - Among these hill stations one of the most famous hill stations is **Manali**. 
+   - Manali is very popular for its beautiful scenery, adventure sports and trekking.
+   - Many people visit here throughout the year and especially in winters when there is snowfall in the region which increases the joy of nature. 
+
+  - **Kullu**
+   - Kullu is also popularly known for its ranges and local markets of woollen clothes 
+
+ - 3. **The Shiwalik** is the southernmost range
+
+- **Northern Indian Plains**
+  - The Northern Indian plains lie to the south of the Himalayas. They are generally level and flat.
+  - These are formed by the alluvial deposits laid down by the rivers– the Indus, the Ganga, the Brahmaputra and theirtributaries.
+  - These river plains provide fertile land forcultivation. 
+  - That is the reason for high concentration of population in these plains
+
+- **Western Part of India**
+  - In the western part of India lies the Great Indian desert.
+  - It is a dry, hot and sandy stretch of land.
+  - It has very little vegetation.
 
 
+- **Prnibsular**
+  - To the south of northern plains lies the Peninsular plateau.
+  - It is triangular in shape. 
+  - This is a region with numerous hill ranges and valleys.
+  
+  - **Aravali hills**, one of the oldest ranges of the world, border it on the north-west side.
+  
+  - **The Vindhyas** and **the Satpuras** are the important ranges. The rivers **Narmada and Tapi** flow through these ranges
+  - These are westflowing rivers that drain into the Arabian Sea. 
+  -
+
+- The Western Ghats or Sahyadris border the plateau in the west and the Eastern Ghats provide the eastern boundary
+
+- **Eastern coastal Plan**
+  - The eastern Coastal plains are much broader.
+  - There are a number of east flowing rivers. The rivers Mahanadi, Godavari, Krishna and Kaveri drain into the Bay of Bengal.
+  - These rivers have formed fertile deltas at their mouth. 
+  > **The Sunderban delta is formed where the Ganga and Brahmaputra flow into the Bay of Bengal.**
+
+- **💛Sunderban Delta**
+  - ![image](https://user-images.githubusercontent.com/47448422/125055091-81c03000-e0c4-11eb-82fe-2b24d1a3d971.png)
+ 
+
+- **🔴Islands**
+  - Two groups of islands also form part of India.
+  - Lakshadweep Islands are located in the Arabian Sea
+  - These are coral islands located off the coast of Kerala.
+  - ![image](https://user-images.githubusercontent.com/47448422/125055183-913f7900-e0c4-11eb-9800-1c825264656c.png)
+
+  - **The Andaman and the Nicobar** Islands lie to the southeast of the Indian mainland in the **Bay of Bengal**
+
+
+- **💚Tsunami**
+  - ***Tsunami is a huge sea wave generated due to an earthquake on the sea floor.***

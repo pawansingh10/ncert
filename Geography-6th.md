@@ -856,17 +856,57 @@
   - ![image](https://user-images.githubusercontent.com/47448422/124972128-9e6a5280-e047-11eb-8b6f-fc77c859f433.png)
 
 
+  - It is our duty to leave the earth a better place for future generations as well.
+
+
+
+- ![image](https://user-images.githubusercontent.com/47448422/124972678-4849df00-e048-11eb-891a-1cc0c8e209af.png)
 
 
 
 
 ## Chapter-7    **Our Country : India**
 ***
-  - It is our duty to leave the earth a better place for future generations as well.
+- India is a country of vast geographical expanse.
+- In the north, it is bound by the lofty Himalayas.
+- The Arabian Sea in the west, the Bay of Bengal in the east
+- the Indian Ocean in the south, wash the shores of the Indian peninsula
+  - The **peninsula** is a piece of land that is surrounded by water on three sides 
+
+- India has an area of about 3.28 million sq. km
+- The north-south extent from **Kashmir to Kanyakumari** is about 3,200 km.
+- The east-west extent from Arunachal Pradesh to Kuchchh is about 2,900 km.
+
+- The lofty mountains, the Great Indian Desert, the Northern Plains, the uneven plateau surface and the coasts and islands present a diversity of landforms.
+- There is a great variety in the climate, vegetation, wildlife as well as in the language and culture.
+- In this diversity, we find unity that is reflected in traditions that bind us as one nation.
+ional
+- India has a population of more than one hundred twenty crores since the year 2011. It is the second most populous country of the world after China
+
+
+- **🔴Locational Setting**
+  - India is located in Northern Hemisphere
+  - The Tropic of Cancer (23°30'N) passes almost halfway through the country
+  - From south to north, main land of India extends between 8°4'N and 37°6'N latitudes.
+  - From west to east, India extends between 68°7'E and 97°25'E longitudes. 
+
+  > ***The sun rises about two hours earlier in the east (Arunachal Pradesh) than in the west (Gujarat)***
+
+- **🔴India's Neighbours**
+  - There are seven that share land boundaries with India
+   1.Nepal
+   2.Bhutan
+   3.Pakistan
+   4.China
+   5.Bangladesh
+   6.Sri Lanka
+   7.Myanmar
+
+  - ![India&Neighbours](https://user-images.githubusercontent.com/47448422/125048687-cdbba680-e0bd-11eb-815a-7be65a211105.png)
 
 
 
-- ![image](https://user-images.githubusercontent.com/47448422/124972678-4849df00-e048-11eb-891a-1cc0c8e209af.png)
+
 
 
 

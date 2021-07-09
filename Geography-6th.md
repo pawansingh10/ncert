@@ -989,8 +989,110 @@ ional
 - **💚Tsunami**
   - ***Tsunami is a huge sea wave generated due to an earthquake on the sea floor.***
 
-
-
 - ![image](https://user-images.githubusercontent.com/47448422/125055389-c2b84480-e0c4-11eb-91f0-b46127e02036.png)
 
 - ![image](https://user-images.githubusercontent.com/47448422/125055430-d06dca00-e0c4-11eb-9fb8-1d6fecd49f1d.png)
+
+
+
+## Chapter-8    **Climate, Vegetation(वनस्पतियां) & Wildlife**
+***
+-  **Weather** 
+   - Weather is about day to day changes in the atmosphere. It includes changes in temperature, rainfall and sunshine etc
+   - It may be Hot or Cold
+   - It may be Sunny or Cloudy
+   - It may be Windy or Calm  
+
+- Broadly, the major seasons recognised in India are :- 
+  - **Cold Weather Season** (Winter) December to Febraury
+  - **Hot Weather Season** (Summer) March to May
+  - **Southwest Monsoon Season** (Rainy June to September
+  - **Season of Retreating Monsoon** (Autumn) October and November
+
+
+- **COLD WEATHER SEASON OR WINTER**
+  - During the winter season, the sun rays do not fall directly in the region 
+  - As a result the temperatures are quite low in northern India.
+
+- **HOT WEATHER SEASON OR SUMMER**
+  - In the hot weather season sun rays more or less directly fall in this region.
+  - Temperature becomes very high.
+  - Hot and dry winds called **loo**, blow during the day.
+
+- **SOUTH WEST MONSOON SEASON OR RAINY SEASON**
+  - This season is marked by the onset and advance of monsoon.
+  - The winds blow from Arabian Sea and Bay of Bengal towards the land 
+  - They carry moisture with them.
+  - When these winds strike the mountain barriers, rainfall occurs 
+
+
+- **SEASON OF RETREATING MONSOONS OR AUTUMN**
+  - Winds move back from the mainland to the Bay of Bengal.
+  - This is the season of the retreating monsoons
+  - The southern parts of India, particularly Tamil Nadu and Andhra Pradesh receive rainfall in this season
+
+  - Monsoon is taken from the Arabic word ‘mausim’, which means seasons
+  -  Agriculture in India is dependent on rains. Good monsoons mean adequate rain and abountiful crop
+ 
+-  The climate of a place is affected by its location, altitude, distance from the sea, and relief.
+
+- Jaisalmer and Bikaner in the desert of Rajasthan are very hot, while Drass and Kargil in Jammu and Kashmir are freezing cold. Coastal places like Mumbai and Kolkata experience moderate climate. 
+
+- **💚NATURAL VEGETATION**
+  - We see a variety of plant life in our surroundings.
+  
+  - Green grasses
+  
+  - There are also small plants called bushes and shrubs like cactus and flowering plants etc.  
+  
+  - Tall trees some with many branches and leaves like neem, mango or some which stand with few leaves such as palm. 
+  
+  - **The grasses, shrubs and trees, which grow on their own without interference or help from human beings are called natural vegetation**
+  
+  - Due to varied climatic conditions, India has a wide range of natural vegetation.
+
+  - - ![image](https://user-images.githubusercontent.com/47448422/125063139-be902500-e0cc-11eb-8f77-5c839609091c.png)
+
+
+- **🌲WHY ARE FORESTS NECESSARY?**
+  - Forests are very useful for us.
+  - They perform various functions. Plants releaseoxygen that we breathe and absorb carbon dioxide.
+  - The roots of the plants bind the soil; thus, they control soil erosion.
+  - Forests provide us with timber for furniture, fuel wood, fodder, medicinal plants and herbs, lac, honey, gum, etc 
+  - Forests are the natural habitat of wild life
+
+- **Save Tree**
+  - We should plant more trees and protect the existing ones and make people aware of the importance of trees 
+  - We can have special programmes like Van Mahotsav to involve more people in making our earth green 
+
+- **Trees Matter Alot**
+  - ![image](https://user-images.githubusercontent.com/47448422/125063521-32cac880-e0cd-11eb-88c9-20a96821d745.png)
+
+
+
+- **🟥Wild Life**
+  - Forests are home to a variety of wild life
+  - There are thousands of species of animals and a large variety of reptiles, amphibians, mammals, birds, insects and worms which dwell in the forest.
+
+  - **The tiger is our national animal**. It is found in various parts of the country. **Gir forest** in Gujarat is the home of **Asiatic lions.** 
+  - **Elephants** and one-horned rhinoceroses roam in the forests of **Assam**. Elephants are also found in **Kerala and Karnataka**.
+  - **Camels** and wild asses are found in the **Great Indian desert and the Rann of Kuchchh** respectively.
+  - **Wild goats, snow leopards, bears**, etc. are found in the **Himalayan region**.
+  -  Many other animals are found in our country such as **monkey, wolf, jackal, nilgai, cheetal**, etc
+
+-India is equally rich in bird life.
+  - The peacock is our national bird.
+  - Other common birds are parrots, pigeons, mynah, geese, bulbul and ducks. 
+
+
+- There are several hundreds of species of snakes found in India.
+  - Cobras and kraits are important among them
+
+- Due to cutting of forests and hunting, several species of wildlife of India are declining rapidly
+- In order to protect them many national parks, sanctuaries and biosphere reserves have been set up. 
+- The Government has also started Project Tiger and Project Elephant to protect these animals
+
+- [Sanctuaries on Map](https://www.mapsofindia.com/maps/wildlife/)
+
+- ![image](https://user-images.githubusercontent.com/47448422/125065073-01eb9300-e0cf-11eb-8027-0433a330778a.png)
+ 

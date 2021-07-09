@@ -988,3 +988,9 @@ ional
 
 - **💚Tsunami**
   - ***Tsunami is a huge sea wave generated due to an earthquake on the sea floor.***
+
+
+
+- ![image](https://user-images.githubusercontent.com/47448422/125055389-c2b84480-e0c4-11eb-91f0-b46127e02036.png)
+
+- ![image](https://user-images.githubusercontent.com/47448422/125055430-d06dca00-e0c4-11eb-9fb8-1d6fecd49f1d.png)
